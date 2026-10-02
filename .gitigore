@@ -1,0 +1,5 @@
+dataset/
+students.csv
+attendance.csv
+haarcascade_frontalface_default.xml
+__pycache__/
